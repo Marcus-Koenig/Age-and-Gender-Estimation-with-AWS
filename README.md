@@ -15,7 +15,7 @@ After the Lambda-Function successfully determines the age and gender, it will wr
 Finally, the end-device will encode the received data and display the original image with the results of the age and gender estimation. 
 
 ### Lambda Functions
-In the folder [Lambda Function](/../tree/main/Lambda-Function) are two code examples given. 
+In the folder [Lambda Function](/Lambda-Function) are two code examples given. 
 
 
 
