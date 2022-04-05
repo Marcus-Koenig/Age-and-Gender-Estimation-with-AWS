@@ -20,8 +20,8 @@ Finally, the end-device will encode the received data and display the original i
 ### Lambda Functions
 In the folder [Lambda Function](/Lambda-Function) are two code examples given. 
 [Dropdown_Button.py](/Lambda-Function/Dropdown_Button.py) is used in the user interface to get the example files from the S3 Bucket. 
-[Inferencing.py]((/Lambda-Function/Inferencing.py) contains the python code to inference the uploaded image from the user. 
-Note that [Inferencing.py]((/Lambda-Function/Inferencing.py) requires additional libraries which can be included via Lambda Layers. 
+[Inferencing.py](/Lambda-Function/Inferencing.py) contains the python code to inference the uploaded image from the user. 
+Note that [Inferencing.py](/Lambda-Function/Inferencing.py) requires additional libraries which can be included via Lambda Layers. 
 
 ![Cloud Architecture](/Architecture.png?raw=true)
 *Figure 1: Cloud Architecture for Implementation*
