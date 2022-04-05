@@ -43,3 +43,5 @@ To create a user interface which enables edge-devices to use this project withou
 This application can be accessed via any web browser. 
 The user can choose to upload one image from his device or choose one of the provided example images. 
 These example images are located in a AWS S3 Bucket and can be changed/adjusted independently from the web application directly on the cloud. 
+
+The code to generate the user interface and connect it with the APIs is provided under [User-Interface](/User-Interface). 
