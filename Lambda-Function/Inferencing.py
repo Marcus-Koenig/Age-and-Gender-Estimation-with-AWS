@@ -111,11 +111,11 @@ def lambda_handler(event, context):
     # s3_bucket_name = "age-gender-estimation-marcusko"
     global lambda_tmp_directory
     lambda_tmp_directory = "/tmp"
-    model_age_file_name = "model_age.quant.onnx"
-    model_gender_file_name = "model_gender.quant.onnx"
+    model_age_file_name = "" #ToDo: Fill in the name of the age estimation model
+    model_gender_file_name = "" #ToDo: Fill in the name of the gender estimation model
     GENDER_DICT = ['female', 'male']
-    s3_bucket_name_output = "age-gender-estimation-results-marcusko"
-    s3_bucket_name_input = "age-gender-estimation-marcusko"
+    s3_bucket_name_output = "" #ToDo: Fill in the output S3 Bucket name
+    s3_bucket_name_input = "" #ToDo: Fill in the input S3 Bucket name
     global male_sign_name
     global female_sign_name
     male_sign_name = "male_sign.png"
