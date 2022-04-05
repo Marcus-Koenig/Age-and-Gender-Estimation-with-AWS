@@ -17,4 +17,4 @@ Finally, the end-device will encode the received data and display the original i
 ### Lambda Functions
 In the folder Lambda Function 
 
-![Figure 1: Cloud Architecture for Implementation](https://github.com/[Marcus-Koenig]/[Age-and-Gender-Estimation-with-AWS]/blob/[main]/Architecture.png?raw=true)
+![Figure 1: Cloud Architecture for Implementation](https://github.com/Marcus-Koenig/Age-and-Gender-Estimation-with-AWS/blob/main/Architecture.png?raw=true)
